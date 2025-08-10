@@ -17,7 +17,7 @@
     {
       "username": "htb",
       "password": "htb",
-      "active": false,
+      "active": true,
       "expire": "2025-09-09T14:35:09.149Z",
       "currentDeviceId": null
     }
