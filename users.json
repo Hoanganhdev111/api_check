@@ -4,99 +4,38 @@
       "username": "admin",
       "password": "admin123",
       "active": true,
-      "expire": "2025-09-10T00:00:00Z"
+      "expire": "2025-09-10T00:00:00Z",
+      "device": null
     },
     {
       "username": "hoang",
       "password": "test",
-      "active": true,
-      "expire": "2025-09-10T00:00:00Z"
+      "active": false,
+      "expire": "2025-09-10T00:00:00Z",
+      "device": null
     }
   ],
   "steps": {
-    "1": {
-      "selector": "div[role='button'][aria-label='See options']",
-      "name": "Xem tùy chọn"
-    },
-    "2": {
-      "selector": "div[role='button'][aria-label='Report profile']",
-      "name": "Báo cáo hồ sơ"
-    },
-    "3": {
-      "selector": "div[role='button'][aria-label='Something about this profile']",
-      "name": "Vấn đề về hồ sơ này"
-    },
-    "4": {
-      "selector": "div[role='button'][aria-label='Fake profile']",
-      "name": "Hồ sơ giả mạo"
-    },
-    "5": {
-      "selector": "div[role='button'][aria-label='Me']",
-      "name": "Tôi"
-    },
-    "6": {
-      "selector": "div[role='button'][aria-label='Submit']",
-      "name": "Gửi"
-    },
-    "7": {
-      "selector": "div[role='button'][aria-label='Next']",
-      "name": "Tiếp theo"
-    },
-    "8": {
-      "selector": "div[role='button'][aria-label='Done']",
-      "name": "Hoàn tất"
-    },
-    "9": {
-      "selector": "div[role='button'][aria-label='Problem involving someone under 18']",
-      "name": "Vấn đề liên quan đến người dưới 18 tuổi"
-    },
-    "10": {
-      "selector": "div[role='button'][aria-label='Bullying or harassment']",
-      "name": "Bắt nạt hoặc quấy rối"
-    },
-    "11": {
-      "selector": "div[role='button'][aria-label='Bullying, harassment or abuse']",
-      "name": "Bắt nạt, quấy rối hoặc lạm dụng"
-    },
-    "12": {
-      "selector": "div[role='button'][aria-label='Scam, fraud or false information']",
-      "name": "Lừa đảo, gian lận hoặc thông tin sai lệch"
-    },
-    "13": {
-      "selector": "div[role='button'][aria-label='Fraud or scam']",
-      "name": "Gian lận hoặc lừa đảo"
-    },
-    "14": {
-      "selector": "div[role='button'][aria-label='Selling or promoting restricted items']",
-      "name": "Bán hoặc quảng bá mặt hàng bị hạn chế"
-    },
-    "15": {
-      "selector": "div[role='button'][aria-label='Weapons']",
-      "name": "Vũ khí"
-    },
-    "16": {
-      "selector": "div[role='button'][aria-label='Adult content']",
-      "name": "Nội dung người lớn"
-    },
-    "17": {
-      "selector": "div[role='button'][aria-label='Threatening to share my nude images']",
-      "name": "Đe dọa chia sẻ ảnh khỏa thân của tôi"
-    },
-    "18": {
-      "selector": "div[role='button'][aria-label='Seems like prostitution']",
-      "name": "Có dấu hiệu mại dâm"
-    },
-    "19": {
-      "selector": "div[role='button'][aria-label='My nude images have been shared']",
-      "name": "Ảnh khỏa thân của tôi đã bị chia sẻ"
-    },
-    "20": {
-      "selector": "div[role='button'][aria-label='Suicide or self-harm']",
-      "name": "Tự tử hoặc tự làm hại bản thân"
-    },
-    "21": {
-      "selector": "div[role='button'][aria-label='Suicide or self-injury']",
-      "name": "Tự tử hoặc tự gây thương tích"
-    }
+    "1": { "selector": "div[role='button'][aria-label='See options']", "name": "Xem tùy chọn" },
+    "2": { "selector": "div[role='button'][aria-label='Report profile']", "name": "Báo cáo hồ sơ" },
+    "3": { "selector": "div[role='button'][aria-label='Something about this profile']", "name": "Vấn đề về hồ sơ này" },
+    "4": { "selector": "div[role='button'][aria-label='Fake profile']", "name": "Hồ sơ giả mạo" },
+    "5": { "selector": "div[role='button'][aria-label='Me']", "name": "Tôi" },
+    "6": { "selector": "div[role='button'][aria-label='Submit']", "name": "Gửi" },
+    "7": { "selector": "div[role='button'][aria-label='Next']", "name": "Tiếp theo" },
+    "8": { "selector": "div[role='button'][aria-label='Done']", "name": "Hoàn tất" },
+    "9": { "selector": "div[role='button'][aria-label='Problem involving someone under 18']", "name": "Vấn đề liên quan đến người dưới 18 tuổi" },
+    "10": { "selector": "div[role='button'][aria-label='Bullying or harassment']", "name": "Bắt nạt hoặc quấy rối" },
+    "11": { "selector": "div[role='button'][aria-label='Bullying, harassment or abuse']", "name": "Bắt nạt, quấy rối hoặc lạm dụng" },
+    "12": { "selector": "div[role='button'][aria-label='Scam, fraud or false information']", "name": "Lừa đảo, gian lận hoặc thông tin sai lệch" },
+    "13": { "selector": "div[role='button'][aria-label='Fraud or scam']", "name": "Gian lận hoặc lừa đảo" },
+    "14": { "selector": "div[role='button'][aria-label='Selling or promoting restricted items']", "name": "Bán hoặc quảng bá mặt hàng bị hạn chế" },
+    "15": { "selector": "div[role='button'][aria-label='Weapons']", "name": "Vũ khí" },
+    "16": { "selector": "div[role='button'][aria-label='Adult content']", "name": "Nội dung người lớn" },
+    "17": { "selector": "div[role='button'][aria-label='Threatening to share my nude images']", "name": "Đe dọa chia sẻ ảnh khỏa thân của tôi" },
+    "18": { "selector": "div[role='button'][aria-label='Seems like prostitution']", "name": "Có dấu hiệu mại dâm" },
+    "19": { "selector": "div[role='button'][aria-label='My nude images have been shared']", "name": "Ảnh khỏa thân của tôi đã bị chia sẻ" },
+    "20": { "selector": "div[role='button'][aria-label='Suicide or self-harm']", "name": "Tự tử hoặc tự làm hại bản thân" },
+    "21": { "selector": "div[role='button'][aria-label='Suicide or self-injury']", "name": "Tự tử hoặc tự gây thương tích" }
   }
 }
