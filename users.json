@@ -4,13 +4,8 @@
       "username": "admin",
       "password": "admin123",
       "active": true,
-      "expire": "2025-09-10T00:00:00Z"
-    },
-    {
-      "username": "hoang",
-      "password": "test",
-      "active": true,
-      "expire": "2025-09-10T00:00:00Z"
+      "expire": "2025-09-10T00:00:00Z",
+      "currentDeviceId": null
     }
   ],
   "steps": {
