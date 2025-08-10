@@ -5,7 +5,7 @@
       "password": "admin123",
       "active": true,
       "expire": "2025-09-10T00:00:00Z",
-      "currentDeviceId": "dev-fpg5z932k6r"
+      "currentDeviceId": null
     },
     {
       "username": "htb1",
@@ -22,90 +22,27 @@
       "currentDeviceId": null
     }
   ],
-  "steps": {
-    "1": {
-      "selector": "div[role='button'][aria-label='See options']",
-      "name": "Xem tÃÂÃÂ¹y chÃÂ¡ÃÂ»ÃÂn"
-    },
-    "2": {
-      "selector": "div[role='button'][aria-label='Report profile']",
-      "name": "BÃÂÃÂ¡o cÃÂÃÂ¡o hÃÂ¡ÃÂ»ÃÂ sÃÂÃÂ¡"
-    },
-    "3": {
-      "selector": "div[role='button'][aria-label='Something about this profile']",
-      "name": "VÃÂ¡ÃÂºÃÂ¥n ÃÂÃÂÃÂ¡ÃÂ»ÃÂ vÃÂ¡ÃÂ»ÃÂi hÃÂ¡ÃÂ»ÃÂ sÃÂÃÂ¡ nÃÂÃÂ y"
-    },
-    "4": {
-      "selector": "div[role='button'][aria-label='Fake profile']",
-      "name": "HÃÂ¡ÃÂ»ÃÂ sÃÂÃÂ¡ giÃÂ¡ÃÂºÃÂ£ mÃÂ¡ÃÂºÃÂ¡o"
-    },
-    "5": {
-      "selector": "div[role='button'][aria-label='Me']",
-      "name": "TÃÂÃÂ´i"
-    },
-    "6": {
-      "selector": "div[role='button'][aria-label='Submit']",
-      "name": "GÃÂ¡ÃÂ»ÃÂ­i"
-    },
-    "7": {
-      "selector": "div[role='button'][aria-label='Next']",
-      "name": "TiÃÂ¡ÃÂºÃÂ¿p theo"
-    },
-    "8": {
-      "selector": "div[role='button'][aria-label='Done']",
-      "name": "HoÃÂÃÂ n tÃÂ¡ÃÂºÃÂ¥t"
-    },
-    "9": {
-      "selector": "div[role='button'][aria-label='Problem involving someone under 18']",
-      "name": "VÃÂ¡ÃÂºÃÂ¥n ÃÂÃÂÃÂ¡ÃÂ»ÃÂ liÃÂÃÂªn quan ngÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂi dÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂi 18 tuÃÂ¡ÃÂ»ÃÂi"
-    },
-    "10": {
-      "selector": "div[role='button'][aria-label='Bullying or harassment']",
-      "name": "BÃÂ¡ÃÂºÃÂ¯t nÃÂ¡ÃÂºÃÂ¡t hoÃÂ¡ÃÂºÃÂ·c quÃÂ¡ÃÂºÃÂ¥y rÃÂ¡ÃÂ»ÃÂi"
-    },
-    "11": {
-      "selector": "div[role='button'][aria-label='Bullying, harassment or abuse']",
-      "name": "BÃÂ¡ÃÂºÃÂ¯t nÃÂ¡ÃÂºÃÂ¡t, quÃÂ¡ÃÂºÃÂ¥y rÃÂ¡ÃÂ»ÃÂi hoÃÂ¡ÃÂºÃÂ·c lÃÂÃÂ m dÃÂ¡ÃÂ»ÃÂ¥ng"
-    },
-    "12": {
-      "selector": "div[role='button'][aria-label='Scam, fraud or false information']",
-      "name": "LÃÂ¡ÃÂ»ÃÂ«a ÃÂÃÂÃÂ¡ÃÂºÃÂ£o, gian lÃÂ¡ÃÂºÃÂ­n hoÃÂ¡ÃÂºÃÂ·c thÃÂÃÂ´ng tin sai lÃÂ¡ÃÂ»ÃÂch"
-    },
-    "13": {
-      "selector": "div[role='button'][aria-label='Fraud or scam']",
-      "name": "Gian lÃÂ¡ÃÂºÃÂ­n hoÃÂ¡ÃÂºÃÂ·c lÃÂ¡ÃÂ»ÃÂ«a ÃÂÃÂÃÂ¡ÃÂºÃÂ£o"
-    },
-    "14": {
-      "selector": "div[role='button'][aria-label='Selling or promoting restricted items']",
-      "name": "BÃÂÃÂ¡n hoÃÂ¡ÃÂºÃÂ·c quÃÂ¡ÃÂºÃÂ£ng bÃÂÃÂ¡ mÃÂ¡ÃÂºÃÂ·t hÃÂÃÂ ng bÃÂ¡ÃÂ»ÃÂ hÃÂ¡ÃÂºÃÂ¡n chÃÂ¡ÃÂºÃÂ¿"
-    },
-    "15": {
-      "selector": "div[role='button'][aria-label='Weapons']",
-      "name": "VÃÂÃÂ© khÃÂÃÂ­"
-    },
-    "16": {
-      "selector": "div[role='button'][aria-label='Adult content']",
-      "name": "NÃÂ¡ÃÂ»ÃÂi dung ngÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂi lÃÂ¡ÃÂ»ÃÂn"
-    },
-    "17": {
-      "selector": "div[role='button'][aria-label='Threatening to share my nude images']",
-      "name": "ÃÂÃÂe dÃÂ¡ÃÂ»ÃÂa chia sÃÂ¡ÃÂºÃÂ» ÃÂ¡ÃÂºÃÂ£nh khÃÂ¡ÃÂ»ÃÂa thÃÂÃÂ¢n cÃÂ¡ÃÂ»ÃÂ§a tÃÂÃÂ´i"
-    },
-    "18": {
-      "selector": "div[role='button'][aria-label='Seems like prostitution']",
-      "name": "CÃÂÃÂ³ dÃÂ¡ÃÂºÃÂ¥u hiÃÂ¡ÃÂ»ÃÂu mÃÂ¡ÃÂºÃÂ¡i dÃÂÃÂ¢m"
-    },
-    "19": {
-      "selector": "div[role='button'][aria-label='My nude images have been shared']",
-      "name": "ÃÂ¡ÃÂºÃÂ¢nh khÃÂ¡ÃÂ»ÃÂa thÃÂÃÂ¢n cÃÂ¡ÃÂ»ÃÂ§a tÃÂÃÂ´i ÃÂÃÂÃÂÃÂ£ bÃÂ¡ÃÂ»ÃÂ chia sÃÂ¡ÃÂºÃÂ»"
-    },
-    "20": {
-      "selector": "div[role='button'][aria-label='Suicide or self-harm']",
-      "name": "TÃÂ¡ÃÂ»ÃÂ± tÃÂ¡ÃÂ»ÃÂ­ hoÃÂ¡ÃÂºÃÂ·c tÃÂ¡ÃÂ»ÃÂ± lÃÂÃÂ m hÃÂ¡ÃÂºÃÂ¡i bÃÂ¡ÃÂºÃÂ£n thÃÂÃÂ¢n"
-    },
-    "21": {
-      "selector": "div[role='button'][aria-label='Suicide or self-injury']",
-      "name": "TÃÂ¡ÃÂ»ÃÂ± tÃÂ¡ÃÂ»ÃÂ­ hoÃÂ¡ÃÂºÃÂ·c tÃÂ¡ÃÂ»ÃÂ± gÃÂÃÂ¢y thÃÂÃÂ°ÃÂÃÂ¡ng tÃÂÃÂ­ch"
+ "steps": {
+  "1": { "selector": "div[role='button'][aria-label='See options']", "name": "Xem tuy chon" },
+  "2": { "selector": "div[role='button'][aria-label='Report profile']", "name": "Bao cao ho so" },
+  "3": { "selector": "div[role='button'][aria-label='Something about this profile']", "name": "Van de ho so nay" },
+  "4": { "selector": "div[role='button'][aria-label='Fake profile']", "name": "Ho so gia mao" },
+  "5": { "selector": "div[role='button'][aria-label='Me']", "name": "Toi" },
+  "6": { "selector": "div[role='button'][aria-label='Submit']", "name": "Gui" },
+  "7": { "selector": "div[role='button'][aria-label='Next']", "name": "Tiep theo" },
+  "8": { "selector": "div[role='button'][aria-label='Done']", "name": "Hoan tat" },
+  "9": { "selector": "div[role='button'][aria-label='Problem involving someone under 18']", "name": "Van de lien quan duoi 18" },
+  "10": { "selector": "div[role='button'][aria-label='Bullying or harassment']", "name": "Bat nat quay roi" },
+  "11": { "selector": "div[role='button'][aria-label='Bullying, harassment or abuse']", "name": "Bat nat quay roi lam dung" },
+  "12": { "selector": "div[role='button'][aria-label='Scam, fraud or false information']", "name": "Lua dao gian lan thong tin sai lech" },
+  "13": { "selector": "div[role='button'][aria-label='Fraud or scam']", "name": "Gian lan lua dao" },
+  "14": { "selector": "div[role='button'][aria-label='Selling or promoting restricted items']", "name": "Ban hoac quang ba mat hang han che" },
+  "15": { "selector": "div[role='button'][aria-label='Weapons']", "name": "Vu khi" },
+  "16": { "selector": "div[role='button'][aria-label='Adult content']", "name": "Noi dung nguoi lon" },
+  "17": { "selector": "div[role='button'][aria-label='Threatening to share my nude images']", "name": "De hoa den hinh anh toi" },
+  "18": { "selector": "div[role='button'][aria-label='Seems like prostitution']", "name": "Co dau hieu mai dam" },
+  "19": { "selector": "div[role='button'][aria-label='My nude images have been shared']", "name": "Anh hoa than toi da bi chia se" },
+  "20": { "selector": "div[role='button'][aria-label='Suicide or self-harm']", "name": "Tu tu lam hai ban than" },
+  "21": { "selector": "div[role='button'][aria-label='Suicide or self-injury']", "name": "Tu tu hoac gay thuong tich" }
     }
   }
-}
