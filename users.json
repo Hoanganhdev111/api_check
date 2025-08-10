@@ -11,6 +11,12 @@
       "password": "test",
       "active": true,
       "expire": "2025-09-10T00:00:00Z"
+    },
+    {
+      "username": "admin1111",
+      "password": "admin",
+      "active": false,
+      "expire": "2025-09-09T12:55:54.045Z"
     }
   ],
   "steps": {
