@@ -10,7 +10,7 @@
     {
       "username": "htb1",
       "password": "htb1",
-      "active": false,
+      "active": true,
       "expire": "2025-09-09T13:49:21.158Z",
       "currentDeviceId": null
     }
