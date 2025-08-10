@@ -18,87 +18,87 @@
   "steps": {
     "1": {
       "selector": "div[role='button'][aria-label='See options']",
-      "name": "Xem tÃ¹y chá»n"
+      "name": "Xem tÃÂ¹y chÃ¡Â»Ân"
     },
     "2": {
       "selector": "div[role='button'][aria-label='Report profile']",
-      "name": "BÃ¡o cÃ¡o há» sÆ¡"
+      "name": "BÃÂ¡o cÃÂ¡o hÃ¡Â»Â sÃÂ¡"
     },
     "3": {
       "selector": "div[role='button'][aria-label='Something about this profile']",
-      "name": "Váº¥n Äá» vá» há» sÆ¡ nÃ y"
+      "name": "VÃ¡ÂºÂ¥n ÃÂÃ¡Â»Â vÃ¡Â»Â hÃ¡Â»Â sÃÂ¡ nÃÂ y"
     },
     "4": {
       "selector": "div[role='button'][aria-label='Fake profile']",
-      "name": "Há» sÆ¡ giáº£ máº¡o"
+      "name": "HÃ¡Â»Â sÃÂ¡ giÃ¡ÂºÂ£ mÃ¡ÂºÂ¡o"
     },
     "5": {
       "selector": "div[role='button'][aria-label='Me']",
-      "name": "TÃ´i"
+      "name": "TÃÂ´i"
     },
     "6": {
       "selector": "div[role='button'][aria-label='Submit']",
-      "name": "Gá»­i"
+      "name": "GÃ¡Â»Â­i"
     },
     "7": {
       "selector": "div[role='button'][aria-label='Next']",
-      "name": "Tiáº¿p theo"
+      "name": "TiÃ¡ÂºÂ¿p theo"
     },
     "8": {
       "selector": "div[role='button'][aria-label='Done']",
-      "name": "HoÃ n táº¥t"
+      "name": "HoÃÂ n tÃ¡ÂºÂ¥t"
     },
     "9": {
       "selector": "div[role='button'][aria-label='Problem involving someone under 18']",
-      "name": "Váº¥n Äá» liÃªn quan Äáº¿n ngÆ°á»i dÆ°á»i 18 tuá»i"
+      "name": "VÃ¡ÂºÂ¥n ÃÂÃ¡Â»Â liÃÂªn quan ÃÂÃ¡ÂºÂ¿n ngÃÂ°Ã¡Â»Âi dÃÂ°Ã¡Â»Âi 18 tuÃ¡Â»Âi"
     },
     "10": {
       "selector": "div[role='button'][aria-label='Bullying or harassment']",
-      "name": "Báº¯t náº¡t hoáº·c quáº¥y rá»i"
+      "name": "BÃ¡ÂºÂ¯t nÃ¡ÂºÂ¡t hoÃ¡ÂºÂ·c quÃ¡ÂºÂ¥y rÃ¡Â»Âi"
     },
     "11": {
       "selector": "div[role='button'][aria-label='Bullying, harassment or abuse']",
-      "name": "Báº¯t náº¡t, quáº¥y rá»i hoáº·c láº¡m dá»¥ng"
+      "name": "BÃ¡ÂºÂ¯t nÃ¡ÂºÂ¡t, quÃ¡ÂºÂ¥y rÃ¡Â»Âi hoÃ¡ÂºÂ·c lÃ¡ÂºÂ¡m dÃ¡Â»Â¥ng"
     },
     "12": {
       "selector": "div[role='button'][aria-label='Scam, fraud or false information']",
-      "name": "Lá»«a Äáº£o, gian láº­n hoáº·c thÃ´ng tin sai lá»ch"
+      "name": "LÃ¡Â»Â«a ÃÂÃ¡ÂºÂ£o, gian lÃ¡ÂºÂ­n hoÃ¡ÂºÂ·c thÃÂ´ng tin sai lÃ¡Â»Âch"
     },
     "13": {
       "selector": "div[role='button'][aria-label='Fraud or scam']",
-      "name": "Gian láº­n hoáº·c lá»«a Äáº£o"
+      "name": "Gian lÃ¡ÂºÂ­n hoÃ¡ÂºÂ·c lÃ¡Â»Â«a ÃÂÃ¡ÂºÂ£o"
     },
     "14": {
       "selector": "div[role='button'][aria-label='Selling or promoting restricted items']",
-      "name": "BÃ¡n hoáº·c quáº£ng bÃ¡ máº·t hÃ ng bá» háº¡n cháº¿"
+      "name": "BÃÂ¡n hoÃ¡ÂºÂ·c quÃ¡ÂºÂ£ng bÃÂ¡ mÃ¡ÂºÂ·t hÃÂ ng bÃ¡Â»Â hÃ¡ÂºÂ¡n chÃ¡ÂºÂ¿"
     },
     "15": {
       "selector": "div[role='button'][aria-label='Weapons']",
-      "name": "VÅ© khÃ­"
+      "name": "VÃÂ© khÃÂ­"
     },
     "16": {
       "selector": "div[role='button'][aria-label='Adult content']",
-      "name": "Ná»i dung ngÆ°á»i lá»n"
+      "name": "NÃ¡Â»Âi dung ngÃÂ°Ã¡Â»Âi lÃ¡Â»Ân"
     },
     "17": {
       "selector": "div[role='button'][aria-label='Threatening to share my nude images']",
-      "name": "Äe dá»a chia sáº» áº£nh khá»a thÃ¢n cá»§a tÃ´i"
+      "name": "ÃÂe dÃ¡Â»Âa chia sÃ¡ÂºÂ» Ã¡ÂºÂ£nh khÃ¡Â»Âa thÃÂ¢n cÃ¡Â»Â§a tÃÂ´i"
     },
     "18": {
       "selector": "div[role='button'][aria-label='Seems like prostitution']",
-      "name": "CÃ³ dáº¥u hiá»u máº¡i dÃ¢m"
+      "name": "CÃÂ³ dÃ¡ÂºÂ¥u hiÃ¡Â»Âu mÃ¡ÂºÂ¡i dÃÂ¢m"
     },
     "19": {
       "selector": "div[role='button'][aria-label='My nude images have been shared']",
-      "name": "áº¢nh khá»a thÃ¢n cá»§a tÃ´i ÄÃ£ bá» chia sáº»"
+      "name": "Ã¡ÂºÂ¢nh khÃ¡Â»Âa thÃÂ¢n cÃ¡Â»Â§a tÃÂ´i ÃÂÃÂ£ bÃ¡Â»Â chia sÃ¡ÂºÂ»"
     },
     "20": {
       "selector": "div[role='button'][aria-label='Suicide or self-harm']",
-      "name": "Tá»± tá»­ hoáº·c tá»± lÃ m háº¡i báº£n thÃ¢n"
+      "name": "TÃ¡Â»Â± tÃ¡Â»Â­ hoÃ¡ÂºÂ·c tÃ¡Â»Â± lÃÂ m hÃ¡ÂºÂ¡i bÃ¡ÂºÂ£n thÃÂ¢n"
     },
     "21": {
       "selector": "div[role='button'][aria-label='Suicide or self-injury']",
-      "name": "Tá»± tá»­ hoáº·c tá»± gÃ¢y thÆ°Æ¡ng tÃ­ch"
+      "name": "TÃ¡Â»Â± tÃ¡Â»Â­ hoÃ¡ÂºÂ·c tÃ¡Â»Â± gÃÂ¢y thÃÂ°ÃÂ¡ng tÃÂ­ch"
     }
   }
 }
